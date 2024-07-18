@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Davi-lab-pt-br
 - 👀 I’m interested in Python and Mysql
 - 🌱 I’m currently learning programation
-- ⚡ Fun fact: I'm 11 years old and I'm Brazilian
+- ⚡ Fun fact: I'm 11 years old
 
 <!---
 Hello guys, I'm Davi, I'm 11 years old and i think interesting animes, cartoons, programing and music.
